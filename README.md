@@ -1,2 +1,2 @@
 ## eMergeHub Client
-This is the customer facing component of eMergeHub where customers can view and purchase products. This component category pages, individual product pages including their image gallery, cart functionality and integration with Stripe for payments. 
+This is the customer facing component of eMergeHub where customers can view and purchase products. This component includes category pages with banners, individual product pages including their image gallery, cart functionality and integration with Stripe for payments. 
